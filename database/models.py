@@ -1,0 +1,1 @@
+# Models: users, clientes, profissionais, servicos, agendamentos

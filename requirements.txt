@@ -1,0 +1,6 @@
+streamlit
+pandas
+sqlalchemy
+bcrypt
+apscheduler
+python-dotenv
